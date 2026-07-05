@@ -1,6 +1,171 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
+    <title>Mis articulos en audio</title>
+    <link>https://robertoroseteg-cloud.github.io/rebcultura</link>
+    <description>Articulos de mis feeds RSS convertidos a audio automaticamente.</description>
+    <language>es</language>
+    <itunes:author>Pipeline automatico</itunes:author>
+    
+    <item>
+      <title>Esta maravillosa invención, la marimba</title>
+      <description>Cultura – Rebelion — https://rebelion.org/esta-maravillosa-invencion/</description>
+      <link>https://rebelion.org/esta-maravillosa-invencion/</link>
+      <guid isPermaLink="false">f421452f2b4038bd</guid>
+      <pubDate>Sun, 05 Jul 2026 22:14:55 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/f421452f2b4038bd.mp3" length="4128048" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>La escultora de la URSS</title>
+      <description>Cultura – Rebelion — https://rebelion.org/la-escultora-de-la-urss/</description>
+      <link>https://rebelion.org/la-escultora-de-la-urss/</link>
+      <guid isPermaLink="false">98158974cfe71c00</guid>
+      <pubDate>Sun, 05 Jul 2026 22:14:38 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/98158974cfe71c00.mp3" length="2143296" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Los buenos modales para cometer el genocidio</title>
+      <description>Cultura – Rebelion — https://rebelion.org/los-buenos-modales-para-cometer-el-genocidio/</description>
+      <link>https://rebelion.org/los-buenos-modales-para-cometer-el-genocidio/</link>
+      <guid isPermaLink="false">5bff1c6cd6e351ec</guid>
+      <pubDate>Sun, 05 Jul 2026 22:14:35 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/5bff1c6cd6e351ec.mp3" length="9911232" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Más allá de Campoamor, Ibárruri y Kent: las otras diputadas republicanas a las que la historia ha olvidado</title>
+      <description>Cultura – Rebelion — https://rebelion.org/mas-alla-de-campoamor-ibarruri-y-kent-las-otras-diputadas-republicanas-a-las-que-la-historia-ha-olvidado-2/</description>
+      <link>https://rebelion.org/mas-alla-de-campoamor-ibarruri-y-kent-las-otras-diputadas-republicanas-a-las-que-la-historia-ha-olvidado-2/</link>
+      <guid isPermaLink="false">6511f788208895ee</guid>
+      <pubDate>Sun, 05 Jul 2026 22:13:53 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/6511f788208895ee.mp3" length="2927808" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Para ser libre y estar en paz hay que despreciar al dinero</title>
+      <description>Cultura – Rebelion — https://rebelion.org/para-ser-libre-y-estar-en-paz-hay-que-despreciar-al-dinero/</description>
+      <link>https://rebelion.org/para-ser-libre-y-estar-en-paz-hay-que-despreciar-al-dinero/</link>
+      <guid isPermaLink="false">5fe732ced6381a23</guid>
+      <pubDate>Sun, 05 Jul 2026 22:13:48 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/5fe732ced6381a23.mp3" length="9815328" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>«Nosotros y Occidente», el nuevo libro del nicaragüense Carlos Midence</title>
+      <description>Cultura – Rebelion — https://rebelion.org/nosotros-y-occidente-el-nuevo-libro-del-nicaraguense-carlos-midence/</description>
+      <link>https://rebelion.org/nosotros-y-occidente-el-nuevo-libro-del-nicaraguense-carlos-midence/</link>
+      <guid isPermaLink="false">311610d258bc6ece</guid>
+      <pubDate>Sun, 05 Jul 2026 22:13:23 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/311610d258bc6ece.mp3" length="745920" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>La extinción de las lenguas es un problema ambiental</title>
+      <description>Cultura – Rebelion — https://rebelion.org/la-extincion-de-las-lenguas-es-un-problema-ambiental/</description>
+      <link>https://rebelion.org/la-extincion-de-las-lenguas-es-un-problema-ambiental/</link>
+      <guid isPermaLink="false">4b539efc0c096f8f</guid>
+      <pubDate>Sun, 05 Jul 2026 22:13:21 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/4b539efc0c096f8f.mp3" length="5470992" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Julian Barnes y el Premio Princesa de Asturias: La literatura al servicio del Imperio</title>
+      <description>Cultura – Rebelion — https://rebelion.org/julian-barnes-y-el-premio-princesa-de-asturias-la-literatura-al-servicio-del-imperio/</description>
+      <link>https://rebelion.org/julian-barnes-y-el-premio-princesa-de-asturias-la-literatura-al-servicio-del-imperio/</link>
+      <guid isPermaLink="false">a84fda40ca3fc6c5</guid>
+      <pubDate>Sun, 05 Jul 2026 22:13:02 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/a84fda40ca3fc6c5.mp3" length="6206400" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Luces, cámara, autoritarismo</title>
+      <description>Cultura – Rebelion — https://rebelion.org/luces-camara-autoritarismo/</description>
+      <link>https://rebelion.org/luces-camara-autoritarismo/</link>
+      <guid isPermaLink="false">d9dd755aa8c3694e</guid>
+      <pubDate>Sun, 05 Jul 2026 22:12:22 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/d9dd755aa8c3694e.mp3" length="20368512" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Una estrategia neurodivergente contra la normalidad</title>
+      <description>Cultura – Rebelion — https://rebelion.org/una-estrategia-neurodivergente-contra-la-normalidad/</description>
+      <link>https://rebelion.org/una-estrategia-neurodivergente-contra-la-normalidad/</link>
+      <guid isPermaLink="false">55c082a8825a9d67</guid>
+      <pubDate>Sun, 05 Jul 2026 22:11:48 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/55c082a8825a9d67.mp3" length="3954528" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Zulema, la intrépida “Claudia”</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/zulema-la-intrepida-claudia/</description>
+      <link>https://desinformemonos.org/zulema-la-intrepida-claudia/</link>
+      <guid isPermaLink="false">7c8d7b4aa7411b09</guid>
+      <pubDate>Sun, 05 Jul 2026 07:18:49 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/7c8d7b4aa7411b09.mp3" length="5579136" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Las guerras por Guerrero</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/las-guerras-por-guerrero-2/</description>
+      <link>https://desinformemonos.org/las-guerras-por-guerrero-2/</link>
+      <guid isPermaLink="false">b9c7c02dd55c5ef7</guid>
+      <pubDate>Sun, 05 Jul 2026 07:18:05 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/b9c7c02dd55c5ef7.mp3" length="3403296" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Cuando el capital invocó a la patria fue para colonizar territorio mapuche</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/cuando-el-capital-invoco-a-la-patria-fue-para-colonizar-territorio-mapuche/</description>
+      <link>https://desinformemonos.org/cuando-el-capital-invoco-a-la-patria-fue-para-colonizar-territorio-mapuche/</link>
+      <guid isPermaLink="false">0476f85ad805e9dc</guid>
+      <pubDate>Sun, 05 Jul 2026 07:17:24 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/0476f85ad805e9dc.mp3" length="3473856" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Chile y Argentina: Dos Estados contra un mismo territorio (fronteras que se derriten al toque del capital)</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/chile-y-argentina-dos-estados-contra-un-mismo-territorio-fronteras-que-se-derriten-al-toque-del-capital/</description>
+      <link>https://desinformemonos.org/chile-y-argentina-dos-estados-contra-un-mismo-territorio-fronteras-que-se-derriten-al-toque-del-capital/</link>
+      <guid isPermaLink="false">93288eccb26a0137</guid>
+      <pubDate>Sun, 05 Jul 2026 07:16:52 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/93288eccb26a0137.mp3" length="1488240" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Pero dos lo zarandeaban para que se callara</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/pero-dos-lo-zarandeaban-para-que-se-callara/</description>
+      <link>https://desinformemonos.org/pero-dos-lo-zarandeaban-para-que-se-callara/</link>
+      <guid isPermaLink="false">2a34cb5da8e007d8</guid>
+      <pubDate>Sun, 05 Jul 2026 07:16:35 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/2a34cb5da8e007d8.mp3" length="3647376" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Violencia fatal e impunidad contra pueblos indígenas en Paraguay</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/violencia-fatal-e-impunidad-contra-pueblos-indigenas-en-paraguay/</description>
+      <link>https://desinformemonos.org/violencia-fatal-e-impunidad-contra-pueblos-indigenas-en-paraguay/</link>
+      <guid isPermaLink="false">bd51fc61a35596c8</guid>
+      <pubDate>Sun, 05 Jul 2026 07:15:58 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/bd51fc61a35596c8.mp3" length="1241856" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Lo político en Cecosesola</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/lo-politico-en-cecosesola/</description>
+      <link>https://desinformemonos.org/lo-politico-en-cecosesola/</link>
+      <guid isPermaLink="false">731770e3cc47abd7</guid>
+      <pubDate>Sun, 05 Jul 2026 07:15:50 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/731770e3cc47abd7.mp3" length="1417824" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Maternidades en espera: ser madre y solicitar asilo en México</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/maternidades-en-espera-ser-madre-y-solicitar-asilo-en-mexico/</description>
+      <link>https://desinformemonos.org/maternidades-en-espera-ser-madre-y-solicitar-asilo-en-mexico/</link>
+      <guid isPermaLink="false">aa0cd6c5f0b33f27</guid>
+      <pubDate>Sun, 05 Jul 2026 07:15:37 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/aa0cd6c5f0b33f27.mp3" length="2482848" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Del plan Colombia al Plan Ecuador. Reconfigurando la arquitectura imperial</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/del-plan-colombia-al-plan-ecuador-reconfigurando-la-arquitectura-imperial/</description>
+      <link>https://desinformemonos.org/del-plan-colombia-al-plan-ecuador-reconfigurando-la-arquitectura-imperial/</link>
+      <guid isPermaLink="false">599f2175eaa58998</guid>
+      <pubDate>Sun, 05 Jul 2026 07:15:16 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/599f2175eaa58998.mp3" length="4633776" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>UNESCO, GEF, CAF y el Acuífero Guaraní. Un nuevo requerimiento sin agua bendita</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/unesco-gef-caf-y-el-acuifero-guarani-un-nuevo-requerimiento-sin-agua-bendita/</description>
+      <link>https://desinformemonos.org/unesco-gef-caf-y-el-acuifero-guarani-un-nuevo-requerimiento-sin-agua-bendita/</link>
+      <guid isPermaLink="false">dbfeb9bd6a06d9f0</guid>
+      <pubDate>Sun, 05 Jul 2026 07:14:31 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/dbfeb9bd6a06d9f0.mp3" length="1661328" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
