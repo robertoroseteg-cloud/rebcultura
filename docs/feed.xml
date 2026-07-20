@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Octubre rojo, ni conspiración ni producto de un partido monolítico</title>
+      <description>Cultura – Rebelion — https://rebelion.org/octubre-rojo-ni-conspiracion-ni-producto-de-un-partido-monolitico/</description>
+      <link>https://rebelion.org/octubre-rojo-ni-conspiracion-ni-producto-de-un-partido-monolitico/</link>
+      <guid isPermaLink="false">e28b4bba2bd302de</guid>
+      <pubDate>Mon, 20 Jul 2026 17:12:37 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/e28b4bba2bd302de.mp3" length="5128560" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Fábrica Lehmann (un archivo japonés)</title>
       <description>Cultura – Rebelion — https://rebelion.org/fabrica-lehmann-un-archivo-japones/</description>
       <link>https://rebelion.org/fabrica-lehmann-un-archivo-japones/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">d9dd755aa8c3694e</guid>
       <pubDate>Sun, 05 Jul 2026 22:12:22 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/d9dd755aa8c3694e.mp3" length="20368512" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Una estrategia neurodivergente contra la normalidad</title>
-      <description>Cultura – Rebelion — https://rebelion.org/una-estrategia-neurodivergente-contra-la-normalidad/</description>
-      <link>https://rebelion.org/una-estrategia-neurodivergente-contra-la-normalidad/</link>
-      <guid isPermaLink="false">55c082a8825a9d67</guid>
-      <pubDate>Sun, 05 Jul 2026 22:11:48 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/55c082a8825a9d67.mp3" length="3954528" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
