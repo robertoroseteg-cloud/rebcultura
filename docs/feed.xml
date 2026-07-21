@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>«¿Qué significa pensar desde América Latina?», de Juan José Bautista y «Vida contemplativa», de Byung-Chul Han</title>
+      <description>Cultura – Rebelion — https://rebelion.org/que-significa-pensar-desde-america-latina-de-juan-jose-bautista-y-vida-contemplativa-de-byung-chul-han/</description>
+      <link>https://rebelion.org/que-significa-pensar-desde-america-latina-de-juan-jose-bautista-y-vida-contemplativa-de-byung-chul-han/</link>
+      <guid isPermaLink="false">5abb1ac91d22d85a</guid>
+      <pubDate>Tue, 21 Jul 2026 17:02:27 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/5abb1ac91d22d85a.mp3" length="4551984" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Octubre rojo, ni conspiración ni producto de un partido monolítico</title>
       <description>Cultura – Rebelion — https://rebelion.org/octubre-rojo-ni-conspiracion-ni-producto-de-un-partido-monolitico/</description>
       <link>https://rebelion.org/octubre-rojo-ni-conspiracion-ni-producto-de-un-partido-monolitico/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">a84fda40ca3fc6c5</guid>
       <pubDate>Sun, 05 Jul 2026 22:13:02 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/a84fda40ca3fc6c5.mp3" length="6206400" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Luces, cámara, autoritarismo</title>
-      <description>Cultura – Rebelion — https://rebelion.org/luces-camara-autoritarismo/</description>
-      <link>https://rebelion.org/luces-camara-autoritarismo/</link>
-      <guid isPermaLink="false">d9dd755aa8c3694e</guid>
-      <pubDate>Sun, 05 Jul 2026 22:12:22 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/d9dd755aa8c3694e.mp3" length="20368512" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
