@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Cuando la guerra canta</title>
+      <description>Cultura – Rebelion — https://rebelion.org/cuando-la-guerra-canta/</description>
+      <link>https://rebelion.org/cuando-la-guerra-canta/</link>
+      <guid isPermaLink="false">f186427594eea64a</guid>
+      <pubDate>Wed, 22 Jul 2026 17:03:12 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/f186427594eea64a.mp3" length="4296240" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>«¿Qué significa pensar desde América Latina?», de Juan José Bautista y «Vida contemplativa», de Byung-Chul Han</title>
       <description>Cultura – Rebelion — https://rebelion.org/que-significa-pensar-desde-america-latina-de-juan-jose-bautista-y-vida-contemplativa-de-byung-chul-han/</description>
       <link>https://rebelion.org/que-significa-pensar-desde-america-latina-de-juan-jose-bautista-y-vida-contemplativa-de-byung-chul-han/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">4b539efc0c096f8f</guid>
       <pubDate>Sun, 05 Jul 2026 22:13:21 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/4b539efc0c096f8f.mp3" length="5470992" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Julian Barnes y el Premio Princesa de Asturias: La literatura al servicio del Imperio</title>
-      <description>Cultura – Rebelion — https://rebelion.org/julian-barnes-y-el-premio-princesa-de-asturias-la-literatura-al-servicio-del-imperio/</description>
-      <link>https://rebelion.org/julian-barnes-y-el-premio-princesa-de-asturias-la-literatura-al-servicio-del-imperio/</link>
-      <guid isPermaLink="false">a84fda40ca3fc6c5</guid>
-      <pubDate>Sun, 05 Jul 2026 22:13:02 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/a84fda40ca3fc6c5.mp3" length="6206400" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

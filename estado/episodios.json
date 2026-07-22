@@ -1,5 +1,14 @@
 [
   {
+    "id": "f186427594eea64a",
+    "titulo": "Cuando la guerra canta",
+    "fuente": "Cultura – Rebelion",
+    "enlace": "https://rebelion.org/cuando-la-guerra-canta/",
+    "archivo": "f186427594eea64a.mp3",
+    "bytes": 4296240,
+    "timestamp": 1784739792
+  },
+  {
     "id": "5abb1ac91d22d85a",
     "titulo": "«¿Qué significa pensar desde América Latina?», de Juan José Bautista y «Vida contemplativa», de Byung-Chul Han",
     "fuente": "Cultura – Rebelion",
@@ -169,14 +178,5 @@
     "archivo": "4b539efc0c096f8f.mp3",
     "bytes": 5470992,
     "timestamp": 1783289601
-  },
-  {
-    "id": "a84fda40ca3fc6c5",
-    "titulo": "Julian Barnes y el Premio Princesa de Asturias: La literatura al servicio del Imperio",
-    "fuente": "Cultura – Rebelion",
-    "enlace": "https://rebelion.org/julian-barnes-y-el-premio-princesa-de-asturias-la-literatura-al-servicio-del-imperio/",
-    "archivo": "a84fda40ca3fc6c5.mp3",
-    "bytes": 6206400,
-    "timestamp": 1783289582
   }
 ]
