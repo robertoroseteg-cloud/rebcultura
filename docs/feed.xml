@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Resistencia cultural en los años de Milei</title>
+      <description>Cultura – Rebelion — https://rebelion.org/argentina-mas-alla-del-futbol-resistencia-cultural-en-los-anos-de-milei/</description>
+      <link>https://rebelion.org/argentina-mas-alla-del-futbol-resistencia-cultural-en-los-anos-de-milei/</link>
+      <guid isPermaLink="false">a0a5c90c99964a03</guid>
+      <pubDate>Thu, 23 Jul 2026 17:07:14 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/a0a5c90c99964a03.mp3" length="3139776" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>¿Dónde estamos cuando nos situamos «a la sombra de Marx»?</title>
+      <description>Cultura – Rebelion — https://rebelion.org/donde-estamos-cuando-nos-situamos-a-la-sombra-de-marx/</description>
+      <link>https://rebelion.org/donde-estamos-cuando-nos-situamos-a-la-sombra-de-marx/</link>
+      <guid isPermaLink="false">742395405ff4a7c5</guid>
+      <pubDate>Thu, 23 Jul 2026 17:06:26 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/742395405ff4a7c5.mp3" length="2637648" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Cuando la guerra canta</title>
       <description>Cultura – Rebelion — https://rebelion.org/cuando-la-guerra-canta/</description>
       <link>https://rebelion.org/cuando-la-guerra-canta/</link>
@@ -150,22 +166,6 @@
       <guid isPermaLink="false">5fe732ced6381a23</guid>
       <pubDate>Sun, 05 Jul 2026 22:13:48 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/5fe732ced6381a23.mp3" length="9815328" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>«Nosotros y Occidente», el nuevo libro del nicaragüense Carlos Midence</title>
-      <description>Cultura – Rebelion — https://rebelion.org/nosotros-y-occidente-el-nuevo-libro-del-nicaraguense-carlos-midence/</description>
-      <link>https://rebelion.org/nosotros-y-occidente-el-nuevo-libro-del-nicaraguense-carlos-midence/</link>
-      <guid isPermaLink="false">311610d258bc6ece</guid>
-      <pubDate>Sun, 05 Jul 2026 22:13:23 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/311610d258bc6ece.mp3" length="745920" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>La extinción de las lenguas es un problema ambiental</title>
-      <description>Cultura – Rebelion — https://rebelion.org/la-extincion-de-las-lenguas-es-un-problema-ambiental/</description>
-      <link>https://rebelion.org/la-extincion-de-las-lenguas-es-un-problema-ambiental/</link>
-      <guid isPermaLink="false">4b539efc0c096f8f</guid>
-      <pubDate>Sun, 05 Jul 2026 22:13:21 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/4b539efc0c096f8f.mp3" length="5470992" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
