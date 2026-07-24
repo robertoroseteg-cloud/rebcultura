@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Una Introducción que es mucho más que una Introducción</title>
+      <description>Cultura – Rebelion — https://rebelion.org/una-introduccion-que-es-mucho-mas-que-una-introduccion/</description>
+      <link>https://rebelion.org/una-introduccion-que-es-mucho-mas-que-una-introduccion/</link>
+      <guid isPermaLink="false">b67bc63fbe34b444</guid>
+      <pubDate>Fri, 24 Jul 2026 17:59:19 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/b67bc63fbe34b444.mp3" length="4285728" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Resistencia cultural en los años de Milei</title>
       <description>Cultura – Rebelion — https://rebelion.org/argentina-mas-alla-del-futbol-resistencia-cultural-en-los-anos-de-milei/</description>
       <link>https://rebelion.org/argentina-mas-alla-del-futbol-resistencia-cultural-en-los-anos-de-milei/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">6511f788208895ee</guid>
       <pubDate>Sun, 05 Jul 2026 22:13:53 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/6511f788208895ee.mp3" length="2927808" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Para ser libre y estar en paz hay que despreciar al dinero</title>
-      <description>Cultura – Rebelion — https://rebelion.org/para-ser-libre-y-estar-en-paz-hay-que-despreciar-al-dinero/</description>
-      <link>https://rebelion.org/para-ser-libre-y-estar-en-paz-hay-que-despreciar-al-dinero/</link>
-      <guid isPermaLink="false">5fe732ced6381a23</guid>
-      <pubDate>Sun, 05 Jul 2026 22:13:48 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/5fe732ced6381a23.mp3" length="9815328" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
