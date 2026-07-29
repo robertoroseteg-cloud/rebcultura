@@ -1,5 +1,14 @@
 [
   {
+    "id": "45a1586518808b76",
+    "titulo": "La riqueza de la tierra latinoamericana ha generado la pobreza de sus habitantes",
+    "fuente": "Cultura – Rebelion",
+    "enlace": "https://rebelion.org/la-riqueza-de-la-tierra-latinoamericana-ha-generado-la-pobreza-de-sus-habitantes/",
+    "archivo": "45a1586518808b76.mp3",
+    "bytes": 2706192,
+    "timestamp": 1785344153
+  },
+  {
     "id": "7987f8dd5bca91f8",
     "titulo": "Nueva contribución a la crítica de la gigantesca estafa monárquico-juancarlista",
     "fuente": "Cultura – Rebelion",
@@ -169,14 +178,5 @@
     "archivo": "f421452f2b4038bd.mp3",
     "bytes": 4128048,
     "timestamp": 1783289695
-  },
-  {
-    "id": "98158974cfe71c00",
-    "titulo": "La escultora de la URSS",
-    "fuente": "Cultura – Rebelion",
-    "enlace": "https://rebelion.org/la-escultora-de-la-urss/",
-    "archivo": "98158974cfe71c00.mp3",
-    "bytes": 2143296,
-    "timestamp": 1783289678
   }
 ]

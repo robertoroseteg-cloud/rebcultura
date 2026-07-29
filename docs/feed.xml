@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>La riqueza de la tierra latinoamericana ha generado la pobreza de sus habitantes</title>
+      <description>Cultura – Rebelion — https://rebelion.org/la-riqueza-de-la-tierra-latinoamericana-ha-generado-la-pobreza-de-sus-habitantes/</description>
+      <link>https://rebelion.org/la-riqueza-de-la-tierra-latinoamericana-ha-generado-la-pobreza-de-sus-habitantes/</link>
+      <guid isPermaLink="false">45a1586518808b76</guid>
+      <pubDate>Wed, 29 Jul 2026 16:55:53 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/45a1586518808b76.mp3" length="2706192" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Nueva contribución a la crítica de la gigantesca estafa monárquico-juancarlista</title>
       <description>Cultura – Rebelion — https://rebelion.org/nueva-contribucion-a-la-critica-de-la-gigantesca-estafa-monarquico-juancarlista/</description>
       <link>https://rebelion.org/nueva-contribucion-a-la-critica-de-la-gigantesca-estafa-monarquico-juancarlista/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">f421452f2b4038bd</guid>
       <pubDate>Sun, 05 Jul 2026 22:14:55 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/f421452f2b4038bd.mp3" length="4128048" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>La escultora de la URSS</title>
-      <description>Cultura – Rebelion — https://rebelion.org/la-escultora-de-la-urss/</description>
-      <link>https://rebelion.org/la-escultora-de-la-urss/</link>
-      <guid isPermaLink="false">98158974cfe71c00</guid>
-      <pubDate>Sun, 05 Jul 2026 22:14:38 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/98158974cfe71c00.mp3" length="2143296" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
