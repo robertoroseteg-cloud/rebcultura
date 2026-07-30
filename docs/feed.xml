@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>«Amor, mujeres y flores», un documental sobre la explotación y la resistencia obrera</title>
+      <description>Cultura – Rebelion — https://rebelion.org/amor-mujeres-y-flores-un-documental-sobre-la-explotacion-y-la-resistencia-obrera/</description>
+      <link>https://rebelion.org/amor-mujeres-y-flores-un-documental-sobre-la-explotacion-y-la-resistencia-obrera/</link>
+      <guid isPermaLink="false">7dda6fa256ed0a81</guid>
+      <pubDate>Thu, 30 Jul 2026 14:33:33 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/7dda6fa256ed0a81.mp3" length="1727712" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>La riqueza de la tierra latinoamericana ha generado la pobreza de sus habitantes</title>
       <description>Cultura – Rebelion — https://rebelion.org/la-riqueza-de-la-tierra-latinoamericana-ha-generado-la-pobreza-de-sus-habitantes/</description>
       <link>https://rebelion.org/la-riqueza-de-la-tierra-latinoamericana-ha-generado-la-pobreza-de-sus-habitantes/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">dbbf2befb3826152</guid>
       <pubDate>Sun, 19 Jul 2026 15:37:56 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/dbbf2befb3826152.mp3" length="2614896" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Esta maravillosa invención, la marimba</title>
-      <description>Cultura – Rebelion — https://rebelion.org/esta-maravillosa-invencion/</description>
-      <link>https://rebelion.org/esta-maravillosa-invencion/</link>
-      <guid isPermaLink="false">f421452f2b4038bd</guid>
-      <pubDate>Sun, 05 Jul 2026 22:14:55 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/f421452f2b4038bd.mp3" length="4128048" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
