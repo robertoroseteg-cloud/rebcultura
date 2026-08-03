@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Libros como quesos y gaseosas</title>
+      <description>Cultura – Rebelion — https://rebelion.org/libros-como-quesos-y-gaseosas/</description>
+      <link>https://rebelion.org/libros-como-quesos-y-gaseosas/</link>
+      <guid isPermaLink="false">f1ea1de91160ae73</guid>
+      <pubDate>Mon, 03 Aug 2026 15:20:43 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/f1ea1de91160ae73.mp3" length="6809040" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Conexión con todo más descentramiento del ego</title>
+      <description>Cultura – Rebelion — https://rebelion.org/conexion-con-todo-mas-descentramiento-del-ego/</description>
+      <link>https://rebelion.org/conexion-con-todo-mas-descentramiento-del-ego/</link>
+      <guid isPermaLink="false">f2171eef6a0518c7</guid>
+      <pubDate>Mon, 03 Aug 2026 15:18:27 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/f2171eef6a0518c7.mp3" length="2098368" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Oda al idealismo y retorno a la utopía</title>
       <description>Cultura – Rebelion — https://rebelion.org/oda-al-idealismo-y-retorno-a-la-utopia/</description>
       <link>https://rebelion.org/oda-al-idealismo-y-retorno-a-la-utopia/</link>
@@ -150,22 +166,6 @@
       <guid isPermaLink="false">48959c9e5d0751a2</guid>
       <pubDate>Sun, 19 Jul 2026 15:42:16 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/48959c9e5d0751a2.mp3" length="7389504" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>La crueldad teme a un perro</title>
-      <description>Cultura – Rebelion — https://rebelion.org/la-crueldad-le-teme-a-un-perro/</description>
-      <link>https://rebelion.org/la-crueldad-le-teme-a-un-perro/</link>
-      <guid isPermaLink="false">129d49cabc375c2b</guid>
-      <pubDate>Sun, 19 Jul 2026 15:40:27 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/129d49cabc375c2b.mp3" length="1699056" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>El arte como gesto de nobleza y extensión del sentir</title>
-      <description>Cultura – Rebelion — https://rebelion.org/el-arte-como-gesto-de-nobleza-y-extension-del-sentir/</description>
-      <link>https://rebelion.org/el-arte-como-gesto-de-nobleza-y-extension-del-sentir/</link>
-      <guid isPermaLink="false">ff6c11dc1e120594</guid>
-      <pubDate>Sun, 19 Jul 2026 15:39:56 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/ff6c11dc1e120594.mp3" length="7969824" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
