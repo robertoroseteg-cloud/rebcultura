@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Stabler, un espía norteamericano en la Transición española</title>
+      <description>Cultura – Rebelion — https://rebelion.org/stabler-un-espia-norteamericano-en-la-transicion-espanola/</description>
+      <link>https://rebelion.org/stabler-un-espia-norteamericano-en-la-transicion-espanola/</link>
+      <guid isPermaLink="false">a8b17ec64f1314b9</guid>
+      <pubDate>Tue, 04 Aug 2026 14:40:48 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/a8b17ec64f1314b9.mp3" length="2120256" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Libros como quesos y gaseosas</title>
       <description>Cultura – Rebelion — https://rebelion.org/libros-como-quesos-y-gaseosas/</description>
       <link>https://rebelion.org/libros-como-quesos-y-gaseosas/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">aecf39e9905e2e2d</guid>
       <pubDate>Sun, 19 Jul 2026 15:42:39 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/aecf39e9905e2e2d.mp3" length="2070720" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Los trazos de la canción</title>
-      <description>Cultura – Rebelion — https://rebelion.org/los-trazos-de-la-cancion/</description>
-      <link>https://rebelion.org/los-trazos-de-la-cancion/</link>
-      <guid isPermaLink="false">48959c9e5d0751a2</guid>
-      <pubDate>Sun, 19 Jul 2026 15:42:16 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/48959c9e5d0751a2.mp3" length="7389504" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
