@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Cincuenta años después de Soweto: una lucha que no se registra no es una lucha</title>
+      <description>Cultura – Rebelion — https://rebelion.org/cincuenta-anos-despues-de-soweto-una-lucha-que-no-se-registra-no-es-una-lucha/</description>
+      <link>https://rebelion.org/cincuenta-anos-despues-de-soweto-una-lucha-que-no-se-registra-no-es-una-lucha/</link>
+      <guid isPermaLink="false">fa391f787f48a4c1</guid>
+      <pubDate>Thu, 06 Aug 2026 14:37:15 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/fa391f787f48a4c1.mp3" length="5238576" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Stabler, un espía norteamericano en la Transición española</title>
       <description>Cultura – Rebelion — https://rebelion.org/stabler-un-espia-norteamericano-en-la-transicion-espanola/</description>
       <link>https://rebelion.org/stabler-un-espia-norteamericano-en-la-transicion-espanola/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">84198c9fc355353e</guid>
       <pubDate>Sun, 19 Jul 2026 15:43:12 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/84198c9fc355353e.mp3" length="3087936" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Murió Ella Laboriel, «figura fundamental de la música y la cultura en nuestro país»</title>
-      <description>Cultura – Rebelion — https://rebelion.org/murio-ella-laboriel-figura-fundamental-de-la-musica-y-la-cultura-en-nuestro-pais/</description>
-      <link>https://rebelion.org/murio-ella-laboriel-figura-fundamental-de-la-musica-y-la-cultura-en-nuestro-pais/</link>
-      <guid isPermaLink="false">aecf39e9905e2e2d</guid>
-      <pubDate>Sun, 19 Jul 2026 15:42:39 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/aecf39e9905e2e2d.mp3" length="2070720" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
