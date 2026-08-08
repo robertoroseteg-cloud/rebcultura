@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Donde nunca deben habitar el olvido y el silencio</title>
+      <description>Cultura – Rebelion — https://rebelion.org/donde-nunca-debe-habitar-el-olvido-y-el-silencio/</description>
+      <link>https://rebelion.org/donde-nunca-debe-habitar-el-olvido-y-el-silencio/</link>
+      <guid isPermaLink="false">71d02dbb031e5782</guid>
+      <pubDate>Sat, 08 Aug 2026 13:13:47 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/71d02dbb031e5782.mp3" length="5152896" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Cincuenta años después de Soweto: una lucha que no se registra no es una lucha</title>
       <description>Cultura – Rebelion — https://rebelion.org/cincuenta-anos-despues-de-soweto-una-lucha-que-no-se-registra-no-es-una-lucha/</description>
       <link>https://rebelion.org/cincuenta-anos-despues-de-soweto-una-lucha-que-no-se-registra-no-es-una-lucha/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">6d6791698256e53a</guid>
       <pubDate>Sun, 19 Jul 2026 15:44:04 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/6d6791698256e53a.mp3" length="4164336" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>La fotógrafa palestina que recorrió todas las carreteras de Cisjordania para retratar sus torres de vigilancia (y hacer arte)</title>
-      <description>Cultura – Rebelion — https://rebelion.org/la-fotografa-palestina-que-recorrio-todas-las-carreteras-de-cisjordania-para-retratar-sus-torres-de-vigilancia-y-hacer-arte/</description>
-      <link>https://rebelion.org/la-fotografa-palestina-que-recorrio-todas-las-carreteras-de-cisjordania-para-retratar-sus-torres-de-vigilancia-y-hacer-arte/</link>
-      <guid isPermaLink="false">84198c9fc355353e</guid>
-      <pubDate>Sun, 19 Jul 2026 15:43:12 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/84198c9fc355353e.mp3" length="3087936" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
