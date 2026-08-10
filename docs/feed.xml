@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>«Pablo fue un defensor constante de la utopía»</title>
+      <description>Cultura – Rebelion — https://rebelion.org/pablo-fue-un-defensor-constante-de-la-utopia/</description>
+      <link>https://rebelion.org/pablo-fue-un-defensor-constante-de-la-utopia/</link>
+      <guid isPermaLink="false">25daa54f3d2cbddf</guid>
+      <pubDate>Mon, 10 Aug 2026 13:48:00 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/25daa54f3d2cbddf.mp3" length="7143552" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Donde nunca deben habitar el olvido y el silencio</title>
       <description>Cultura – Rebelion — https://rebelion.org/donde-nunca-debe-habitar-el-olvido-y-el-silencio/</description>
       <link>https://rebelion.org/donde-nunca-debe-habitar-el-olvido-y-el-silencio/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">98c92f0fd8c48085</guid>
       <pubDate>Sun, 19 Jul 2026 15:44:44 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/98c92f0fd8c48085.mp3" length="6601680" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Winnipeg, el barco con el que Neruda salvó a 2.200 exiliados republicanos que iniciaron una nueva vida en Chile</title>
-      <description>Cultura – Rebelion — https://rebelion.org/winnipeg-el-barco-con-el-que-neruda-salvo-a-2-200-exiliados-republicanos-que-iniciaron-una-nueva-vida-en-chile/</description>
-      <link>https://rebelion.org/winnipeg-el-barco-con-el-que-neruda-salvo-a-2-200-exiliados-republicanos-que-iniciaron-una-nueva-vida-en-chile/</link>
-      <guid isPermaLink="false">6d6791698256e53a</guid>
-      <pubDate>Sun, 19 Jul 2026 15:44:04 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/6d6791698256e53a.mp3" length="4164336" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
