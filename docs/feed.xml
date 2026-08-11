@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Una declaración de amor a Palestina</title>
+      <description>Cultura – Rebelion — https://rebelion.org/una-declaracion-de-amor-a-palestina/</description>
+      <link>https://rebelion.org/una-declaracion-de-amor-a-palestina/</link>
+      <guid isPermaLink="false">93e4f211f09b05c0</guid>
+      <pubDate>Tue, 11 Aug 2026 13:44:56 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/93e4f211f09b05c0.mp3" length="3347712" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>«Pablo fue un defensor constante de la utopía»</title>
       <description>Cultura – Rebelion — https://rebelion.org/pablo-fue-un-defensor-constante-de-la-utopia/</description>
       <link>https://rebelion.org/pablo-fue-un-defensor-constante-de-la-utopia/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">8ac17aa225ba4713</guid>
       <pubDate>Sun, 19 Jul 2026 15:45:14 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/8ac17aa225ba4713.mp3" length="1868832" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Sartre y la revolución cubana</title>
-      <description>Cultura – Rebelion — https://rebelion.org/sartre-y-la-revolucion-cubana/</description>
-      <link>https://rebelion.org/sartre-y-la-revolucion-cubana/</link>
-      <guid isPermaLink="false">98c92f0fd8c48085</guid>
-      <pubDate>Sun, 19 Jul 2026 15:44:44 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/98c92f0fd8c48085.mp3" length="6601680" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
