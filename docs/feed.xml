@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>«Palestina 36», hoy como ayer</title>
+      <description>Cultura – Rebelion — https://rebelion.org/palestina-36-hoy-como-ayer/</description>
+      <link>https://rebelion.org/palestina-36-hoy-como-ayer/</link>
+      <guid isPermaLink="false">6daad0e928bd397c</guid>
+      <pubDate>Sat, 15 Aug 2026 13:02:37 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/6daad0e928bd397c.mp3" length="2343744" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Luz sobre un poder poco conocido</title>
+      <description>Cultura – Rebelion — https://rebelion.org/luz-sobre-un-poder-poco-conocido/</description>
+      <link>https://rebelion.org/luz-sobre-un-poder-poco-conocido/</link>
+      <guid isPermaLink="false">9647799be9e81fbc</guid>
+      <pubDate>Sat, 15 Aug 2026 13:01:51 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/9647799be9e81fbc.mp3" length="7041024" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Fidel Castro, el hombre, el estratega, el revolucionario</title>
       <description>Cultura – Rebelion — https://rebelion.org/fidel-castro-el-hombre-el-estratega-el-revolucionario/</description>
       <link>https://rebelion.org/fidel-castro-el-hombre-el-estratega-el-revolucionario/</link>
@@ -150,22 +166,6 @@
       <guid isPermaLink="false">f186427594eea64a</guid>
       <pubDate>Wed, 22 Jul 2026 17:03:12 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/f186427594eea64a.mp3" length="4296240" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>«¿Qué significa pensar desde América Latina?», de Juan José Bautista y «Vida contemplativa», de Byung-Chul Han</title>
-      <description>Cultura – Rebelion — https://rebelion.org/que-significa-pensar-desde-america-latina-de-juan-jose-bautista-y-vida-contemplativa-de-byung-chul-han/</description>
-      <link>https://rebelion.org/que-significa-pensar-desde-america-latina-de-juan-jose-bautista-y-vida-contemplativa-de-byung-chul-han/</link>
-      <guid isPermaLink="false">5abb1ac91d22d85a</guid>
-      <pubDate>Tue, 21 Jul 2026 17:02:27 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/5abb1ac91d22d85a.mp3" length="4551984" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Octubre rojo, ni conspiración ni producto de un partido monolítico</title>
-      <description>Cultura – Rebelion — https://rebelion.org/octubre-rojo-ni-conspiracion-ni-producto-de-un-partido-monolitico/</description>
-      <link>https://rebelion.org/octubre-rojo-ni-conspiracion-ni-producto-de-un-partido-monolitico/</link>
-      <guid isPermaLink="false">e28b4bba2bd302de</guid>
-      <pubDate>Mon, 20 Jul 2026 17:12:37 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/e28b4bba2bd302de.mp3" length="5128560" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
