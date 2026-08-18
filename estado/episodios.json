@@ -1,5 +1,14 @@
 [
   {
+    "id": "a1758724063c77b8",
+    "titulo": "Crónica sobre Martin Heidegger: 1926-1936",
+    "fuente": "Cultura – Rebelion",
+    "enlace": "https://rebelion.org/cronica-sobre-martin-heidegger-1926-1936/",
+    "archivo": "a1758724063c77b8.mp3",
+    "bytes": 8470944,
+    "timestamp": 1787058692
+  },
+  {
     "id": "41105e9aeeacbc6b",
     "titulo": "El último destello de una ficción",
     "fuente": "Cultura – Rebelion",
@@ -169,14 +178,5 @@
     "archivo": "a0a5c90c99964a03.mp3",
     "bytes": 3139776,
     "timestamp": 1784826434
-  },
-  {
-    "id": "742395405ff4a7c5",
-    "titulo": "¿Dónde estamos cuando nos situamos «a la sombra de Marx»?",
-    "fuente": "Cultura – Rebelion",
-    "enlace": "https://rebelion.org/donde-estamos-cuando-nos-situamos-a-la-sombra-de-marx/",
-    "archivo": "742395405ff4a7c5.mp3",
-    "bytes": 2637648,
-    "timestamp": 1784826386
   }
 ]

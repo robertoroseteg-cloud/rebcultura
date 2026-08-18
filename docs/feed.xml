@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Crónica sobre Martin Heidegger: 1926-1936</title>
+      <description>Cultura – Rebelion — https://rebelion.org/cronica-sobre-martin-heidegger-1926-1936/</description>
+      <link>https://rebelion.org/cronica-sobre-martin-heidegger-1926-1936/</link>
+      <guid isPermaLink="false">a1758724063c77b8</guid>
+      <pubDate>Tue, 18 Aug 2026 13:11:32 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/a1758724063c77b8.mp3" length="8470944" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>El último destello de una ficción</title>
       <description>Cultura – Rebelion — https://rebelion.org/el-ultimo-destello-de-una-ficcion/</description>
       <link>https://rebelion.org/el-ultimo-destello-de-una-ficcion/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">a0a5c90c99964a03</guid>
       <pubDate>Thu, 23 Jul 2026 17:07:14 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/a0a5c90c99964a03.mp3" length="3139776" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>¿Dónde estamos cuando nos situamos «a la sombra de Marx»?</title>
-      <description>Cultura – Rebelion — https://rebelion.org/donde-estamos-cuando-nos-situamos-a-la-sombra-de-marx/</description>
-      <link>https://rebelion.org/donde-estamos-cuando-nos-situamos-a-la-sombra-de-marx/</link>
-      <guid isPermaLink="false">742395405ff4a7c5</guid>
-      <pubDate>Thu, 23 Jul 2026 17:06:26 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/742395405ff4a7c5.mp3" length="2637648" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
