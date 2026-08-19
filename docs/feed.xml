@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Federico García Lorca, un acento propio universal</title>
+      <description>Cultura – Rebelion — https://rebelion.org/federico-garcia-lorca-un-acento-propio-universal/</description>
+      <link>https://rebelion.org/federico-garcia-lorca-un-acento-propio-universal/</link>
+      <guid isPermaLink="false">5b03fc785763bbff</guid>
+      <pubDate>Wed, 19 Aug 2026 13:11:11 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/5b03fc785763bbff.mp3" length="6648912" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Crónica sobre Martin Heidegger: 1926-1936</title>
       <description>Cultura – Rebelion — https://rebelion.org/cronica-sobre-martin-heidegger-1926-1936/</description>
       <link>https://rebelion.org/cronica-sobre-martin-heidegger-1926-1936/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">b67bc63fbe34b444</guid>
       <pubDate>Fri, 24 Jul 2026 17:59:19 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/b67bc63fbe34b444.mp3" length="4285728" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Resistencia cultural en los años de Milei</title>
-      <description>Cultura – Rebelion — https://rebelion.org/argentina-mas-alla-del-futbol-resistencia-cultural-en-los-anos-de-milei/</description>
-      <link>https://rebelion.org/argentina-mas-alla-del-futbol-resistencia-cultural-en-los-anos-de-milei/</link>
-      <guid isPermaLink="false">a0a5c90c99964a03</guid>
-      <pubDate>Thu, 23 Jul 2026 17:07:14 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/a0a5c90c99964a03.mp3" length="3139776" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
