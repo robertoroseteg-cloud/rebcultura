@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Oda al idealismo y retorno a la utopía</title>
+      <description>Cultura – Rebelion — https://rebelion.org/oda-al-idealismo-y-retorno-a-la-utopia-2/</description>
+      <link>https://rebelion.org/oda-al-idealismo-y-retorno-a-la-utopia-2/</link>
+      <guid isPermaLink="false">f1018f00a80e8aab</guid>
+      <pubDate>Thu, 20 Aug 2026 13:13:08 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/f1018f00a80e8aab.mp3" length="7969536" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Federico García Lorca, un acento propio universal</title>
       <description>Cultura – Rebelion — https://rebelion.org/federico-garcia-lorca-un-acento-propio-universal/</description>
       <link>https://rebelion.org/federico-garcia-lorca-un-acento-propio-universal/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">93944714582b6ab8</guid>
       <pubDate>Mon, 27 Jul 2026 18:10:50 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/93944714582b6ab8.mp3" length="5141520" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Una Introducción que es mucho más que una Introducción</title>
-      <description>Cultura – Rebelion — https://rebelion.org/una-introduccion-que-es-mucho-mas-que-una-introduccion/</description>
-      <link>https://rebelion.org/una-introduccion-que-es-mucho-mas-que-una-introduccion/</link>
-      <guid isPermaLink="false">b67bc63fbe34b444</guid>
-      <pubDate>Fri, 24 Jul 2026 17:59:19 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/b67bc63fbe34b444.mp3" length="4285728" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
