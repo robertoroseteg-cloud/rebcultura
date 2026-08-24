@@ -1,5 +1,14 @@
 [
   {
+    "id": "e349ec732de1413d",
+    "titulo": "Censura teatral",
+    "fuente": "Cultura – Rebelion",
+    "enlace": "https://rebelion.org/890906-2/",
+    "archivo": "e349ec732de1413d.mp3",
+    "bytes": 4089600,
+    "timestamp": 1787577289
+  },
+  {
     "id": "f1018f00a80e8aab",
     "titulo": "Oda al idealismo y retorno a la utopía",
     "fuente": "Cultura – Rebelion",
@@ -169,14 +178,5 @@
     "archivo": "7987f8dd5bca91f8.mp3",
     "bytes": 4228704,
     "timestamp": 1785260902
-  },
-  {
-    "id": "93944714582b6ab8",
-    "titulo": "Ghassan Kanafani, marxista, mártir… ¿músico?",
-    "fuente": "Cultura – Rebelion",
-    "enlace": "https://rebelion.org/ghassan-kanafani-marxista-martir-musico/",
-    "archivo": "93944714582b6ab8.mp3",
-    "bytes": 5141520,
-    "timestamp": 1785175850
   }
 ]

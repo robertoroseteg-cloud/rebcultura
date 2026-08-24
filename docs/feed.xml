@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Censura teatral</title>
+      <description>Cultura – Rebelion — https://rebelion.org/890906-2/</description>
+      <link>https://rebelion.org/890906-2/</link>
+      <guid isPermaLink="false">e349ec732de1413d</guid>
+      <pubDate>Mon, 24 Aug 2026 13:14:49 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/e349ec732de1413d.mp3" length="4089600" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Oda al idealismo y retorno a la utopía</title>
       <description>Cultura – Rebelion — https://rebelion.org/oda-al-idealismo-y-retorno-a-la-utopia-2/</description>
       <link>https://rebelion.org/oda-al-idealismo-y-retorno-a-la-utopia-2/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">7987f8dd5bca91f8</guid>
       <pubDate>Tue, 28 Jul 2026 17:48:22 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/7987f8dd5bca91f8.mp3" length="4228704" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Ghassan Kanafani, marxista, mártir… ¿músico?</title>
-      <description>Cultura – Rebelion — https://rebelion.org/ghassan-kanafani-marxista-martir-musico/</description>
-      <link>https://rebelion.org/ghassan-kanafani-marxista-martir-musico/</link>
-      <guid isPermaLink="false">93944714582b6ab8</guid>
-      <pubDate>Mon, 27 Jul 2026 18:10:50 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/93944714582b6ab8.mp3" length="5141520" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
