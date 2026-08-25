@@ -1,5 +1,23 @@
 [
   {
+    "id": "bfe46778acae6190",
+    "titulo": "Francisco Fernández Buey (1943-2012) como profesor, como maestro",
+    "fuente": "Cultura – Rebelion",
+    "enlace": "https://rebelion.org/francisco-fernandez-buey-1943-2012-como-profesor-como-maestro/",
+    "archivo": "bfe46778acae6190.mp3",
+    "bytes": 6361200,
+    "timestamp": 1787663627
+  },
+  {
+    "id": "bf9487d6982ef719",
+    "titulo": "«Mi madre, mi maestra: Memorias del Sáhara Occidental», de Bahia Mahmud Awah",
+    "fuente": "Cultura – Rebelion",
+    "enlace": "https://rebelion.org/mi-madre-mi-maestra-memorias-del-sahara-occidental-de-bahia-mahmud-awah/",
+    "archivo": "bf9487d6982ef719.mp3",
+    "bytes": 468144,
+    "timestamp": 1787663530
+  },
+  {
     "id": "e349ec732de1413d",
     "titulo": "Censura teatral",
     "fuente": "Cultura – Rebelion",
@@ -160,23 +178,5 @@
     "archivo": "7dda6fa256ed0a81.mp3",
     "bytes": 1727712,
     "timestamp": 1785422013
-  },
-  {
-    "id": "45a1586518808b76",
-    "titulo": "La riqueza de la tierra latinoamericana ha generado la pobreza de sus habitantes",
-    "fuente": "Cultura – Rebelion",
-    "enlace": "https://rebelion.org/la-riqueza-de-la-tierra-latinoamericana-ha-generado-la-pobreza-de-sus-habitantes/",
-    "archivo": "45a1586518808b76.mp3",
-    "bytes": 2706192,
-    "timestamp": 1785344153
-  },
-  {
-    "id": "7987f8dd5bca91f8",
-    "titulo": "Nueva contribución a la crítica de la gigantesca estafa monárquico-juancarlista",
-    "fuente": "Cultura – Rebelion",
-    "enlace": "https://rebelion.org/nueva-contribucion-a-la-critica-de-la-gigantesca-estafa-monarquico-juancarlista/",
-    "archivo": "7987f8dd5bca91f8.mp3",
-    "bytes": 4228704,
-    "timestamp": 1785260902
   }
 ]
