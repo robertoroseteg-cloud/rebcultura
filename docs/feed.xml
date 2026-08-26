@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>No siempre quien calla otorga</title>
+      <description>Cultura – Rebelion — https://rebelion.org/no-siempre-quien-calla-otorga/</description>
+      <link>https://rebelion.org/no-siempre-quien-calla-otorga/</link>
+      <guid isPermaLink="false">690e1afbf6f55317</guid>
+      <pubDate>Wed, 26 Aug 2026 13:19:15 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/690e1afbf6f55317.mp3" length="8227440" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Francisco Fernández Buey (1943-2012) como profesor, como maestro</title>
       <description>Cultura – Rebelion — https://rebelion.org/francisco-fernandez-buey-1943-2012-como-profesor-como-maestro/</description>
       <link>https://rebelion.org/francisco-fernandez-buey-1943-2012-como-profesor-como-maestro/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">ae786ac4e53ff734</guid>
       <pubDate>Fri, 31 Jul 2026 14:38:10 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/ae786ac4e53ff734.mp3" length="7996752" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>«Amor, mujeres y flores», un documental sobre la explotación y la resistencia obrera</title>
-      <description>Cultura – Rebelion — https://rebelion.org/amor-mujeres-y-flores-un-documental-sobre-la-explotacion-y-la-resistencia-obrera/</description>
-      <link>https://rebelion.org/amor-mujeres-y-flores-un-documental-sobre-la-explotacion-y-la-resistencia-obrera/</link>
-      <guid isPermaLink="false">7dda6fa256ed0a81</guid>
-      <pubDate>Thu, 30 Jul 2026 14:33:33 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/7dda6fa256ed0a81.mp3" length="1727712" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
