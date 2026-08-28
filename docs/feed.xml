@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Samira Azzam, la escritora palestina que enseñó a narrar el exilio</title>
+      <description>Cultura – Rebelion — https://rebelion.org/samira-azzam-la-escritora-palestina-que-enseno-a-narrar-el-exilio/</description>
+      <link>https://rebelion.org/samira-azzam-la-escritora-palestina-que-enseno-a-narrar-el-exilio/</link>
+      <guid isPermaLink="false">ff1d94cb667bcc22</guid>
+      <pubDate>Fri, 28 Aug 2026 22:22:26 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/ff1d94cb667bcc22.mp3" length="3080304" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>No siempre quien calla otorga</title>
       <description>Cultura – Rebelion — https://rebelion.org/no-siempre-quien-calla-otorga/</description>
       <link>https://rebelion.org/no-siempre-quien-calla-otorga/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">f2171eef6a0518c7</guid>
       <pubDate>Mon, 03 Aug 2026 15:18:27 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/f2171eef6a0518c7.mp3" length="2098368" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Oda al idealismo y retorno a la utopía</title>
-      <description>Cultura – Rebelion — https://rebelion.org/oda-al-idealismo-y-retorno-a-la-utopia/</description>
-      <link>https://rebelion.org/oda-al-idealismo-y-retorno-a-la-utopia/</link>
-      <guid isPermaLink="false">ae786ac4e53ff734</guid>
-      <pubDate>Fri, 31 Jul 2026 14:38:10 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/ae786ac4e53ff734.mp3" length="7996752" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
