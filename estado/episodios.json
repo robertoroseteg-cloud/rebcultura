@@ -1,5 +1,23 @@
 [
   {
+    "id": "2724180b50c8f1c8",
+    "titulo": "La lucha final",
+    "fuente": "Cultura – Rebelion",
+    "enlace": "https://rebelion.org/la-lucha-final/",
+    "archivo": "2724180b50c8f1c8.mp3",
+    "bytes": 2782080,
+    "timestamp": 1788021896
+  },
+  {
+    "id": "8f7d53054b62ad2b",
+    "titulo": "Stackpole: un héroe del Realismo Social",
+    "fuente": "Cultura – Rebelion",
+    "enlace": "https://rebelion.org/stackpole-un-heroe-del-realismo-social/",
+    "archivo": "8f7d53054b62ad2b.mp3",
+    "bytes": 2656368,
+    "timestamp": 1788021864
+  },
+  {
     "id": "ff1d94cb667bcc22",
     "titulo": "Samira Azzam, la escritora palestina que enseñó a narrar el exilio",
     "fuente": "Cultura – Rebelion",
@@ -160,23 +178,5 @@
     "archivo": "a8b17ec64f1314b9.mp3",
     "bytes": 2120256,
     "timestamp": 1785854448
-  },
-  {
-    "id": "f1ea1de91160ae73",
-    "titulo": "Libros como quesos y gaseosas",
-    "fuente": "Cultura – Rebelion",
-    "enlace": "https://rebelion.org/libros-como-quesos-y-gaseosas/",
-    "archivo": "f1ea1de91160ae73.mp3",
-    "bytes": 6809040,
-    "timestamp": 1785770443
-  },
-  {
-    "id": "f2171eef6a0518c7",
-    "titulo": "Conexión con todo más descentramiento del ego",
-    "fuente": "Cultura – Rebelion",
-    "enlace": "https://rebelion.org/conexion-con-todo-mas-descentramiento-del-ego/",
-    "archivo": "f2171eef6a0518c7.mp3",
-    "bytes": 2098368,
-    "timestamp": 1785770307
   }
 ]

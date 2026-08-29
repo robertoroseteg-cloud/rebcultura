@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>La lucha final</title>
+      <description>Cultura – Rebelion — https://rebelion.org/la-lucha-final/</description>
+      <link>https://rebelion.org/la-lucha-final/</link>
+      <guid isPermaLink="false">2724180b50c8f1c8</guid>
+      <pubDate>Sat, 29 Aug 2026 16:44:56 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/2724180b50c8f1c8.mp3" length="2782080" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Stackpole: un héroe del Realismo Social</title>
+      <description>Cultura – Rebelion — https://rebelion.org/stackpole-un-heroe-del-realismo-social/</description>
+      <link>https://rebelion.org/stackpole-un-heroe-del-realismo-social/</link>
+      <guid isPermaLink="false">8f7d53054b62ad2b</guid>
+      <pubDate>Sat, 29 Aug 2026 16:44:24 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/8f7d53054b62ad2b.mp3" length="2656368" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Samira Azzam, la escritora palestina que enseñó a narrar el exilio</title>
       <description>Cultura – Rebelion — https://rebelion.org/samira-azzam-la-escritora-palestina-que-enseno-a-narrar-el-exilio/</description>
       <link>https://rebelion.org/samira-azzam-la-escritora-palestina-que-enseno-a-narrar-el-exilio/</link>
@@ -150,22 +166,6 @@
       <guid isPermaLink="false">a8b17ec64f1314b9</guid>
       <pubDate>Tue, 04 Aug 2026 14:40:48 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/a8b17ec64f1314b9.mp3" length="2120256" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Libros como quesos y gaseosas</title>
-      <description>Cultura – Rebelion — https://rebelion.org/libros-como-quesos-y-gaseosas/</description>
-      <link>https://rebelion.org/libros-como-quesos-y-gaseosas/</link>
-      <guid isPermaLink="false">f1ea1de91160ae73</guid>
-      <pubDate>Mon, 03 Aug 2026 15:20:43 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/f1ea1de91160ae73.mp3" length="6809040" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Conexión con todo más descentramiento del ego</title>
-      <description>Cultura – Rebelion — https://rebelion.org/conexion-con-todo-mas-descentramiento-del-ego/</description>
-      <link>https://rebelion.org/conexion-con-todo-mas-descentramiento-del-ego/</link>
-      <guid isPermaLink="false">f2171eef6a0518c7</guid>
-      <pubDate>Mon, 03 Aug 2026 15:18:27 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/f2171eef6a0518c7.mp3" length="2098368" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
