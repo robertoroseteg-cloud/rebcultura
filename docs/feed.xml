@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Dolly Parton fue una orgullosa hermana sindicalista</title>
+      <description>Cultura – Rebelion — https://rebelion.org/dolly-parton-fue-una-orgullosa-hermana-sindicalista/</description>
+      <link>https://rebelion.org/dolly-parton-fue-una-orgullosa-hermana-sindicalista/</link>
+      <guid isPermaLink="false">6ccad2f9489a806d</guid>
+      <pubDate>Mon, 31 Aug 2026 19:09:26 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/6ccad2f9489a806d.mp3" length="2651904" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>La lucha final</title>
       <description>Cultura – Rebelion — https://rebelion.org/la-lucha-final/</description>
       <link>https://rebelion.org/la-lucha-final/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">fa391f787f48a4c1</guid>
       <pubDate>Thu, 06 Aug 2026 14:37:15 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/fa391f787f48a4c1.mp3" length="5238576" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Stabler, un espía norteamericano en la Transición española</title>
-      <description>Cultura – Rebelion — https://rebelion.org/stabler-un-espia-norteamericano-en-la-transicion-espanola/</description>
-      <link>https://rebelion.org/stabler-un-espia-norteamericano-en-la-transicion-espanola/</link>
-      <guid isPermaLink="false">a8b17ec64f1314b9</guid>
-      <pubDate>Tue, 04 Aug 2026 14:40:48 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/a8b17ec64f1314b9.mp3" length="2120256" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
