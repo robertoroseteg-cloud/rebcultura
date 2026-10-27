@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Filosofando por senderos no trillados (II)</title>
+      <description>Rebelión · Cultura — https://rebelion.org/filosofando-por-senderos-no-trillados-ii/</description>
+      <link>https://rebelion.org/filosofando-por-senderos-no-trillados-ii/</link>
+      <guid isPermaLink="false">7e2900246c2b10ba</guid>
+      <pubDate>Tue, 27 Oct 2026 18:10:21 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/7e2900246c2b10ba.mp3" length="11398464" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Acerca del escudo social</title>
+      <description>Rebelión · Cultura — https://rebelion.org/acerca-del-escudo-social/</description>
+      <link>https://rebelion.org/acerca-del-escudo-social/</link>
+      <guid isPermaLink="false">47c616eb2aa22aff</guid>
+      <pubDate>Tue, 27 Oct 2026 18:03:08 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/47c616eb2aa22aff.mp3" length="2033280" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Con la nueva norma de Vox no se haría ‘La bola negra’, ¿pero tampoco ‘Torrente’?</title>
       <description>Cultura – Rebelion — https://rebelion.org/con-la-nueva-norma-de-vox-no-se-haria-la-bola-negra-pero-tampoco-torrente/</description>
       <link>https://rebelion.org/con-la-nueva-norma-de-vox-no-se-haria-la-bola-negra-pero-tampoco-torrente/</link>
@@ -150,22 +166,6 @@
       <guid isPermaLink="false">2f2dad6adb168ef1</guid>
       <pubDate>Wed, 12 Aug 2026 13:48:28 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/2f2dad6adb168ef1.mp3" length="1089792" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Una declaración de amor a Palestina</title>
-      <description>Cultura – Rebelion — https://rebelion.org/una-declaracion-de-amor-a-palestina/</description>
-      <link>https://rebelion.org/una-declaracion-de-amor-a-palestina/</link>
-      <guid isPermaLink="false">93e4f211f09b05c0</guid>
-      <pubDate>Tue, 11 Aug 2026 13:44:56 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/93e4f211f09b05c0.mp3" length="3347712" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>«Pablo fue un defensor constante de la utopía»</title>
-      <description>Cultura – Rebelion — https://rebelion.org/pablo-fue-un-defensor-constante-de-la-utopia/</description>
-      <link>https://rebelion.org/pablo-fue-un-defensor-constante-de-la-utopia/</link>
-      <guid isPermaLink="false">25daa54f3d2cbddf</guid>
-      <pubDate>Mon, 10 Aug 2026 13:48:00 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/25daa54f3d2cbddf.mp3" length="7143552" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
