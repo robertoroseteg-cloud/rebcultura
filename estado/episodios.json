@@ -1,5 +1,23 @@
 [
   {
+    "id": "913c3179b849d5e7",
+    "titulo": "«Los viajes de Gulliver», trescientos años de un angustiado manifiesto político",
+    "fuente": "Rebelión · Cultura",
+    "enlace": "https://rebelion.org/los-viajes-de-gulliver-trescientos-anos-de-un-angustiado-manifiesto-politico/",
+    "archivo": "913c3179b849d5e7.mp3",
+    "bytes": 2524608,
+    "timestamp": 1793211941
+  },
+  {
+    "id": "ad9fdf5636bd47d8",
+    "titulo": "El viento y el tiempo arrastran las hojas muertas",
+    "fuente": "Rebelión · Cultura",
+    "enlace": "https://rebelion.org/el-viento-y-el-tiempo-arrastran-las-hojas-muertas/",
+    "archivo": "ad9fdf5636bd47d8.mp3",
+    "bytes": 9689904,
+    "timestamp": 1793211879
+  },
+  {
     "id": "7e2900246c2b10ba",
     "titulo": "Filosofando por senderos no trillados (II)",
     "fuente": "Rebelión · Cultura",
@@ -160,23 +178,5 @@
     "archivo": "9647799be9e81fbc.mp3",
     "bytes": 7041024,
     "timestamp": 1786798911
-  },
-  {
-    "id": "0996ddba04dc138e",
-    "titulo": "Fidel Castro, el hombre, el estratega, el revolucionario",
-    "fuente": "Cultura – Rebelion",
-    "enlace": "https://rebelion.org/fidel-castro-el-hombre-el-estratega-el-revolucionario/",
-    "archivo": "0996ddba04dc138e.mp3",
-    "bytes": 3171600,
-    "timestamp": 1786628984
-  },
-  {
-    "id": "2f2dad6adb168ef1",
-    "titulo": "Una biografía de Fidel Castro en el centenario de su nacimiento",
-    "fuente": "Cultura – Rebelion",
-    "enlace": "https://rebelion.org/una-biografia-de-fidel-castro-en-el-centenario-de-su-nacimiento/",
-    "archivo": "2f2dad6adb168ef1.mp3",
-    "bytes": 1089792,
-    "timestamp": 1786542508
   }
 ]

@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>«Los viajes de Gulliver», trescientos años de un angustiado manifiesto político</title>
+      <description>Rebelión · Cultura — https://rebelion.org/los-viajes-de-gulliver-trescientos-anos-de-un-angustiado-manifiesto-politico/</description>
+      <link>https://rebelion.org/los-viajes-de-gulliver-trescientos-anos-de-un-angustiado-manifiesto-politico/</link>
+      <guid isPermaLink="false">913c3179b849d5e7</guid>
+      <pubDate>Wed, 28 Oct 2026 18:25:41 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/913c3179b849d5e7.mp3" length="2524608" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>El viento y el tiempo arrastran las hojas muertas</title>
+      <description>Rebelión · Cultura — https://rebelion.org/el-viento-y-el-tiempo-arrastran-las-hojas-muertas/</description>
+      <link>https://rebelion.org/el-viento-y-el-tiempo-arrastran-las-hojas-muertas/</link>
+      <guid isPermaLink="false">ad9fdf5636bd47d8</guid>
+      <pubDate>Wed, 28 Oct 2026 18:24:39 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/ad9fdf5636bd47d8.mp3" length="9689904" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Filosofando por senderos no trillados (II)</title>
       <description>Rebelión · Cultura — https://rebelion.org/filosofando-por-senderos-no-trillados-ii/</description>
       <link>https://rebelion.org/filosofando-por-senderos-no-trillados-ii/</link>
@@ -150,22 +166,6 @@
       <guid isPermaLink="false">9647799be9e81fbc</guid>
       <pubDate>Sat, 15 Aug 2026 13:01:51 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/9647799be9e81fbc.mp3" length="7041024" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Fidel Castro, el hombre, el estratega, el revolucionario</title>
-      <description>Cultura – Rebelion — https://rebelion.org/fidel-castro-el-hombre-el-estratega-el-revolucionario/</description>
-      <link>https://rebelion.org/fidel-castro-el-hombre-el-estratega-el-revolucionario/</link>
-      <guid isPermaLink="false">0996ddba04dc138e</guid>
-      <pubDate>Thu, 13 Aug 2026 13:49:44 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/0996ddba04dc138e.mp3" length="3171600" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Una biografía de Fidel Castro en el centenario de su nacimiento</title>
-      <description>Cultura – Rebelion — https://rebelion.org/una-biografia-de-fidel-castro-en-el-centenario-de-su-nacimiento/</description>
-      <link>https://rebelion.org/una-biografia-de-fidel-castro-en-el-centenario-de-su-nacimiento/</link>
-      <guid isPermaLink="false">2f2dad6adb168ef1</guid>
-      <pubDate>Wed, 12 Aug 2026 13:48:28 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/2f2dad6adb168ef1.mp3" length="1089792" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
