@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>«Lorca en La Habana», una recreación de la estancia del literato granadino en Cuba en 1930</title>
+      <description>Rebelión · Cultura — https://rebelion.org/lorca-en-la-habana-una-recreacion-de-la-estancia-del-literato-granadino-en-cuba-en-1930/</description>
+      <link>https://rebelion.org/lorca-en-la-habana-una-recreacion-de-la-estancia-del-literato-granadino-en-cuba-en-1930/</link>
+      <guid isPermaLink="false">066bd87079dc6cc2</guid>
+      <pubDate>Fri, 30 Oct 2026 18:01:49 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/066bd87079dc6cc2.mp3" length="1913904" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Un libro necesario para los que quieran conocer la pugna constante para defender e impedir la autodeterminación del pueblo saharaui</title>
       <description>Rebelión · Cultura — https://rebelion.org/un-libro-necesario-para-los-que-quieran-conocer-la-pugna-constante-para-defender-e-impedir-la-autodeterminacion-del-pueblo-saharaui/</description>
       <link>https://rebelion.org/un-libro-necesario-para-los-que-quieran-conocer-la-pugna-constante-para-defender-e-impedir-la-autodeterminacion-del-pueblo-saharaui/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">41105e9aeeacbc6b</guid>
       <pubDate>Mon, 17 Aug 2026 13:07:41 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/41105e9aeeacbc6b.mp3" length="5611536" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>«Palestina 36», hoy como ayer</title>
-      <description>Cultura – Rebelion — https://rebelion.org/palestina-36-hoy-como-ayer/</description>
-      <link>https://rebelion.org/palestina-36-hoy-como-ayer/</link>
-      <guid isPermaLink="false">6daad0e928bd397c</guid>
-      <pubDate>Sat, 15 Aug 2026 13:02:37 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/6daad0e928bd397c.mp3" length="2343744" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
