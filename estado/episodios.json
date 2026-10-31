@@ -1,5 +1,14 @@
 [
   {
+    "id": "05eb34fa56a65289",
+    "titulo": "Eric Hobsbawm, historiador de las derrotas",
+    "fuente": "Rebelión · Cultura",
+    "enlace": "https://rebelion.org/eric-hobsbawm-historiador-de-las-derrotas/",
+    "archivo": "05eb34fa56a65289.mp3",
+    "bytes": 8819856,
+    "timestamp": 1793467058
+  },
+  {
     "id": "066bd87079dc6cc2",
     "titulo": "«Lorca en La Habana», una recreación de la estancia del literato granadino en Cuba en 1930",
     "fuente": "Rebelión · Cultura",
@@ -169,14 +178,5 @@
     "archivo": "a1758724063c77b8.mp3",
     "bytes": 8470944,
     "timestamp": 1787058692
-  },
-  {
-    "id": "41105e9aeeacbc6b",
-    "titulo": "El último destello de una ficción",
-    "fuente": "Cultura – Rebelion",
-    "enlace": "https://rebelion.org/el-ultimo-destello-de-una-ficcion/",
-    "archivo": "41105e9aeeacbc6b.mp3",
-    "bytes": 5611536,
-    "timestamp": 1786972061
   }
 ]

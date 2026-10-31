@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Eric Hobsbawm, historiador de las derrotas</title>
+      <description>Rebelión · Cultura — https://rebelion.org/eric-hobsbawm-historiador-de-las-derrotas/</description>
+      <link>https://rebelion.org/eric-hobsbawm-historiador-de-las-derrotas/</link>
+      <guid isPermaLink="false">05eb34fa56a65289</guid>
+      <pubDate>Sat, 31 Oct 2026 17:17:38 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/05eb34fa56a65289.mp3" length="8819856" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>«Lorca en La Habana», una recreación de la estancia del literato granadino en Cuba en 1930</title>
       <description>Rebelión · Cultura — https://rebelion.org/lorca-en-la-habana-una-recreacion-de-la-estancia-del-literato-granadino-en-cuba-en-1930/</description>
       <link>https://rebelion.org/lorca-en-la-habana-una-recreacion-de-la-estancia-del-literato-granadino-en-cuba-en-1930/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">a1758724063c77b8</guid>
       <pubDate>Tue, 18 Aug 2026 13:11:32 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/a1758724063c77b8.mp3" length="8470944" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>El último destello de una ficción</title>
-      <description>Cultura – Rebelion — https://rebelion.org/el-ultimo-destello-de-una-ficcion/</description>
-      <link>https://rebelion.org/el-ultimo-destello-de-una-ficcion/</link>
-      <guid isPermaLink="false">41105e9aeeacbc6b</guid>
-      <pubDate>Mon, 17 Aug 2026 13:07:41 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/41105e9aeeacbc6b.mp3" length="5611536" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
