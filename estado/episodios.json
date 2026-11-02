@@ -1,5 +1,23 @@
 [
   {
+    "id": "e5d1dc6b02fb7e71",
+    "titulo": "Milicianas españolas: Historia y literatura",
+    "fuente": "Rebelión · Cultura",
+    "enlace": "https://rebelion.org/milicianas-espanolas-historia-y-literatura/",
+    "archivo": "e5d1dc6b02fb7e71.mp3",
+    "bytes": 4466304,
+    "timestamp": 1793656008
+  },
+  {
+    "id": "6f9b67cee683920f",
+    "titulo": "Conversaciones filosófico-teológicas en un marco de creencia y fe comprometida",
+    "fuente": "Rebelión · Cultura",
+    "enlace": "https://rebelion.org/conversaciones-filosofico-teologicas-en-un-marco-de-creencia-y-fe-comprometida/",
+    "archivo": "6f9b67cee683920f.mp3",
+    "bytes": 7766640,
+    "timestamp": 1793655924
+  },
+  {
     "id": "05eb34fa56a65289",
     "titulo": "Eric Hobsbawm, historiador de las derrotas",
     "fuente": "Rebelión · Cultura",
@@ -160,23 +178,5 @@
     "archivo": "f1018f00a80e8aab.mp3",
     "bytes": 7969536,
     "timestamp": 1787231588
-  },
-  {
-    "id": "5b03fc785763bbff",
-    "titulo": "Federico García Lorca, un acento propio universal",
-    "fuente": "Cultura – Rebelion",
-    "enlace": "https://rebelion.org/federico-garcia-lorca-un-acento-propio-universal/",
-    "archivo": "5b03fc785763bbff.mp3",
-    "bytes": 6648912,
-    "timestamp": 1787145071
-  },
-  {
-    "id": "a1758724063c77b8",
-    "titulo": "Crónica sobre Martin Heidegger: 1926-1936",
-    "fuente": "Cultura – Rebelion",
-    "enlace": "https://rebelion.org/cronica-sobre-martin-heidegger-1926-1936/",
-    "archivo": "a1758724063c77b8.mp3",
-    "bytes": 8470944,
-    "timestamp": 1787058692
   }
 ]
