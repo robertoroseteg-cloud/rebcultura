@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Memoria, afectos y solidaridad en medio de la guerra</title>
+      <description>Rebelión · Cultura — https://rebelion.org/memoria-afectos-y-solidaridad-en-medio-de-la-guerra/</description>
+      <link>https://rebelion.org/memoria-afectos-y-solidaridad-en-medio-de-la-guerra/</link>
+      <guid isPermaLink="false">a5ebe37381a3e5f7</guid>
+      <pubDate>Thu, 05 Nov 2026 19:59:24 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/a5ebe37381a3e5f7.mp3" length="2338560" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Milicianas españolas: Historia y literatura</title>
       <description>Rebelión · Cultura — https://rebelion.org/milicianas-espanolas-historia-y-literatura/</description>
       <link>https://rebelion.org/milicianas-espanolas-historia-y-literatura/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">e349ec732de1413d</guid>
       <pubDate>Mon, 24 Aug 2026 13:14:49 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/e349ec732de1413d.mp3" length="4089600" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Oda al idealismo y retorno a la utopía</title>
-      <description>Cultura – Rebelion — https://rebelion.org/oda-al-idealismo-y-retorno-a-la-utopia-2/</description>
-      <link>https://rebelion.org/oda-al-idealismo-y-retorno-a-la-utopia-2/</link>
-      <guid isPermaLink="false">f1018f00a80e8aab</guid>
-      <pubDate>Thu, 20 Aug 2026 13:13:08 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/f1018f00a80e8aab.mp3" length="7969536" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
