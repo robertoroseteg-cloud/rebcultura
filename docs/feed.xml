@@ -8,6 +8,30 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>El color negro es un signo</title>
+      <description>Rebelión · Cultura — https://rebelion.org/el-color-negro-es-un-signo/</description>
+      <link>https://rebelion.org/el-color-negro-es-un-signo/</link>
+      <guid isPermaLink="false">2d975364dd036314</guid>
+      <pubDate>Fri, 06 Nov 2026 19:34:39 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/2d975364dd036314.mp3" length="13553280" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>El teatro social, la aporofobia y el derecho a pertenecer</title>
+      <description>Rebelión · Cultura — https://rebelion.org/el-teatro-social-la-aporofobia-y-el-derecho-a-pertenecer/</description>
+      <link>https://rebelion.org/el-teatro-social-la-aporofobia-y-el-derecho-a-pertenecer/</link>
+      <guid isPermaLink="false">35cd5f8b22904d1b</guid>
+      <pubDate>Fri, 06 Nov 2026 19:28:13 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/35cd5f8b22904d1b.mp3" length="4481280" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Sábado 7 noviembre se inaugura la exhibición «Cuando la conciencia nos llama»</title>
+      <description>Rebelión · Cultura — https://rebelion.org/el-sabado-7-de-noviembre-se-inaugura-la-exposicion-fotografica-cuando-la-conciencia-nos-llama/</description>
+      <link>https://rebelion.org/el-sabado-7-de-noviembre-se-inaugura-la-exposicion-fotografica-cuando-la-conciencia-nos-llama/</link>
+      <guid isPermaLink="false">09720953f97a8052</guid>
+      <pubDate>Fri, 06 Nov 2026 19:26:00 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/09720953f97a8052.mp3" length="743904" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Memoria, afectos y solidaridad en medio de la guerra</title>
       <description>Rebelión · Cultura — https://rebelion.org/memoria-afectos-y-solidaridad-en-medio-de-la-guerra/</description>
       <link>https://rebelion.org/memoria-afectos-y-solidaridad-en-medio-de-la-guerra/</link>
@@ -142,30 +166,6 @@
       <guid isPermaLink="false">690e1afbf6f55317</guid>
       <pubDate>Wed, 26 Aug 2026 13:19:15 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/690e1afbf6f55317.mp3" length="8227440" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Francisco Fernández Buey (1943-2012) como profesor, como maestro</title>
-      <description>Cultura – Rebelion — https://rebelion.org/francisco-fernandez-buey-1943-2012-como-profesor-como-maestro/</description>
-      <link>https://rebelion.org/francisco-fernandez-buey-1943-2012-como-profesor-como-maestro/</link>
-      <guid isPermaLink="false">bfe46778acae6190</guid>
-      <pubDate>Tue, 25 Aug 2026 13:13:47 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/bfe46778acae6190.mp3" length="6361200" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>«Mi madre, mi maestra: Memorias del Sáhara Occidental», de Bahia Mahmud Awah</title>
-      <description>Cultura – Rebelion — https://rebelion.org/mi-madre-mi-maestra-memorias-del-sahara-occidental-de-bahia-mahmud-awah/</description>
-      <link>https://rebelion.org/mi-madre-mi-maestra-memorias-del-sahara-occidental-de-bahia-mahmud-awah/</link>
-      <guid isPermaLink="false">bf9487d6982ef719</guid>
-      <pubDate>Tue, 25 Aug 2026 13:12:10 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/bf9487d6982ef719.mp3" length="468144" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Censura teatral</title>
-      <description>Cultura – Rebelion — https://rebelion.org/890906-2/</description>
-      <link>https://rebelion.org/890906-2/</link>
-      <guid isPermaLink="false">e349ec732de1413d</guid>
-      <pubDate>Mon, 24 Aug 2026 13:14:49 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/e349ec732de1413d.mp3" length="4089600" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

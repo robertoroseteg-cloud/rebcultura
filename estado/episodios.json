@@ -1,5 +1,32 @@
 [
   {
+    "id": "2d975364dd036314",
+    "titulo": "El color negro es un signo",
+    "fuente": "Rebelión · Cultura",
+    "enlace": "https://rebelion.org/el-color-negro-es-un-signo/",
+    "archivo": "2d975364dd036314.mp3",
+    "bytes": 13553280,
+    "timestamp": 1793993679
+  },
+  {
+    "id": "35cd5f8b22904d1b",
+    "titulo": "El teatro social, la aporofobia y el derecho a pertenecer",
+    "fuente": "Rebelión · Cultura",
+    "enlace": "https://rebelion.org/el-teatro-social-la-aporofobia-y-el-derecho-a-pertenecer/",
+    "archivo": "35cd5f8b22904d1b.mp3",
+    "bytes": 4481280,
+    "timestamp": 1793993293
+  },
+  {
+    "id": "09720953f97a8052",
+    "titulo": "Sábado 7 noviembre se inaugura la exhibición «Cuando la conciencia nos llama»",
+    "fuente": "Rebelión · Cultura",
+    "enlace": "https://rebelion.org/el-sabado-7-de-noviembre-se-inaugura-la-exposicion-fotografica-cuando-la-conciencia-nos-llama/",
+    "archivo": "09720953f97a8052.mp3",
+    "bytes": 743904,
+    "timestamp": 1793993160
+  },
+  {
     "id": "a5ebe37381a3e5f7",
     "titulo": "Memoria, afectos y solidaridad en medio de la guerra",
     "fuente": "Rebelión · Cultura",
@@ -151,32 +178,5 @@
     "archivo": "690e1afbf6f55317.mp3",
     "bytes": 8227440,
     "timestamp": 1787750355
-  },
-  {
-    "id": "bfe46778acae6190",
-    "titulo": "Francisco Fernández Buey (1943-2012) como profesor, como maestro",
-    "fuente": "Cultura – Rebelion",
-    "enlace": "https://rebelion.org/francisco-fernandez-buey-1943-2012-como-profesor-como-maestro/",
-    "archivo": "bfe46778acae6190.mp3",
-    "bytes": 6361200,
-    "timestamp": 1787663627
-  },
-  {
-    "id": "bf9487d6982ef719",
-    "titulo": "«Mi madre, mi maestra: Memorias del Sáhara Occidental», de Bahia Mahmud Awah",
-    "fuente": "Cultura – Rebelion",
-    "enlace": "https://rebelion.org/mi-madre-mi-maestra-memorias-del-sahara-occidental-de-bahia-mahmud-awah/",
-    "archivo": "bf9487d6982ef719.mp3",
-    "bytes": 468144,
-    "timestamp": 1787663530
-  },
-  {
-    "id": "e349ec732de1413d",
-    "titulo": "Censura teatral",
-    "fuente": "Cultura – Rebelion",
-    "enlace": "https://rebelion.org/890906-2/",
-    "archivo": "e349ec732de1413d.mp3",
-    "bytes": 4089600,
-    "timestamp": 1787577289
   }
 ]
