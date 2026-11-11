@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Entre hambre y franquismo el sueño del triunfo…</title>
+      <description>Rebelión · Cultura — https://rebelion.org/entre-hambre-y-franquismo-el-sueno-del-triunfo/</description>
+      <link>https://rebelion.org/entre-hambre-y-franquismo-el-sueno-del-triunfo/</link>
+      <guid isPermaLink="false">c56aa64d039639f1</guid>
+      <pubDate>Wed, 11 Nov 2026 19:40:27 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/c56aa64d039639f1.mp3" length="8530704" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Millet: el pintor de los campesinos</title>
       <description>Rebelión · Cultura — https://rebelion.org/millet-el-pintor-de-los-campesinos/</description>
       <link>https://rebelion.org/millet-el-pintor-de-los-campesinos/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">6ccad2f9489a806d</guid>
       <pubDate>Mon, 31 Aug 2026 19:09:26 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/6ccad2f9489a806d.mp3" length="2651904" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>La lucha final</title>
-      <description>Cultura – Rebelion — https://rebelion.org/la-lucha-final/</description>
-      <link>https://rebelion.org/la-lucha-final/</link>
-      <guid isPermaLink="false">2724180b50c8f1c8</guid>
-      <pubDate>Sat, 29 Aug 2026 16:44:56 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/2724180b50c8f1c8.mp3" length="2782080" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

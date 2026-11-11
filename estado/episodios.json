@@ -1,5 +1,14 @@
 [
   {
+    "id": "c56aa64d039639f1",
+    "titulo": "Entre hambre y franquismo el sueño del triunfo…",
+    "fuente": "Rebelión · Cultura",
+    "enlace": "https://rebelion.org/entre-hambre-y-franquismo-el-sueno-del-triunfo/",
+    "archivo": "c56aa64d039639f1.mp3",
+    "bytes": 8530704,
+    "timestamp": 1794426027
+  },
+  {
     "id": "59715d64ec92cac9",
     "titulo": "Millet: el pintor de los campesinos",
     "fuente": "Rebelión · Cultura",
@@ -169,14 +178,5 @@
     "archivo": "6ccad2f9489a806d.mp3",
     "bytes": 2651904,
     "timestamp": 1788203366
-  },
-  {
-    "id": "2724180b50c8f1c8",
-    "titulo": "La lucha final",
-    "fuente": "Cultura – Rebelion",
-    "enlace": "https://rebelion.org/la-lucha-final/",
-    "archivo": "2724180b50c8f1c8.mp3",
-    "bytes": 2782080,
-    "timestamp": 1788021896
   }
 ]
