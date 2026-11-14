@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Los dioses indígenas del Ecuador</title>
+      <description>Rebelión · Cultura — https://rebelion.org/los-dioses-indigenas-del-ecuador/</description>
+      <link>https://rebelion.org/los-dioses-indigenas-del-ecuador/</link>
+      <guid isPermaLink="false">044ee9bf38e9c994</guid>
+      <pubDate>Sat, 14 Nov 2026 18:10:54 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/044ee9bf38e9c994.mp3" length="9320544" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Muchas más que 100 (I)</title>
+      <description>Rebelión · Cultura — https://rebelion.org/muchas-mas-que-100-i/</description>
+      <link>https://rebelion.org/muchas-mas-que-100-i/</link>
+      <guid isPermaLink="false">42d3ba92e0d30608</guid>
+      <pubDate>Sat, 14 Nov 2026 18:09:01 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/42d3ba92e0d30608.mp3" length="11383920" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>¿Cómo sobreviven los oficios tradicionales palestinos?</title>
       <description>Rebelión · Cultura — https://rebelion.org/como-sobreviven-los-oficios-tradicionales-palestinos/</description>
       <link>https://rebelion.org/como-sobreviven-los-oficios-tradicionales-palestinos/</link>
@@ -150,22 +166,6 @@
       <guid isPermaLink="false">7e2900246c2b10ba</guid>
       <pubDate>Tue, 27 Oct 2026 18:10:21 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/7e2900246c2b10ba.mp3" length="11398464" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Acerca del escudo social</title>
-      <description>Rebelión · Cultura — https://rebelion.org/acerca-del-escudo-social/</description>
-      <link>https://rebelion.org/acerca-del-escudo-social/</link>
-      <guid isPermaLink="false">47c616eb2aa22aff</guid>
-      <pubDate>Tue, 27 Oct 2026 18:03:08 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/47c616eb2aa22aff.mp3" length="2033280" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Con la nueva norma de Vox no se haría ‘La bola negra’, ¿pero tampoco ‘Torrente’?</title>
-      <description>Cultura – Rebelion — https://rebelion.org/con-la-nueva-norma-de-vox-no-se-haria-la-bola-negra-pero-tampoco-torrente/</description>
-      <link>https://rebelion.org/con-la-nueva-norma-de-vox-no-se-haria-la-bola-negra-pero-tampoco-torrente/</link>
-      <guid isPermaLink="false">57b104b6403b5bfc</guid>
-      <pubDate>Fri, 23 Oct 2026 17:13:24 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/57b104b6403b5bfc.mp3" length="3670560" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
