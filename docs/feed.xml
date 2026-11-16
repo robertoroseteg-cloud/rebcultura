@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Muchísimas más que 100 (II)</title>
+      <description>Rebelión · Cultura — https://rebelion.org/muchisimas-mas-que-100-ii/</description>
+      <link>https://rebelion.org/muchisimas-mas-que-100-ii/</link>
+      <guid isPermaLink="false">19ce40eac5ba1b6e</guid>
+      <pubDate>Mon, 16 Nov 2026 22:06:49 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/19ce40eac5ba1b6e.mp3" length="7664832" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Los dioses indígenas del Ecuador</title>
       <description>Rebelión · Cultura — https://rebelion.org/los-dioses-indigenas-del-ecuador/</description>
       <link>https://rebelion.org/los-dioses-indigenas-del-ecuador/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">ad9fdf5636bd47d8</guid>
       <pubDate>Wed, 28 Oct 2026 18:24:39 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/ad9fdf5636bd47d8.mp3" length="9689904" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Filosofando por senderos no trillados (II)</title>
-      <description>Rebelión · Cultura — https://rebelion.org/filosofando-por-senderos-no-trillados-ii/</description>
-      <link>https://rebelion.org/filosofando-por-senderos-no-trillados-ii/</link>
-      <guid isPermaLink="false">7e2900246c2b10ba</guid>
-      <pubDate>Tue, 27 Oct 2026 18:10:21 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/7e2900246c2b10ba.mp3" length="11398464" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
