@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Artículos y reseñas contra la alienación del capital</title>
+      <description>Rebelión · Cultura — https://rebelion.org/articulos-y-resenas-contra-la-alienacion-del-capital/</description>
+      <link>https://rebelion.org/articulos-y-resenas-contra-la-alienacion-del-capital/</link>
+      <guid isPermaLink="false">460ec8365dc415ac</guid>
+      <pubDate>Wed, 18 Nov 2026 20:33:51 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/460ec8365dc415ac.mp3" length="2867904" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Muchísimas más que 100 (II)</title>
       <description>Rebelión · Cultura — https://rebelion.org/muchisimas-mas-que-100-ii/</description>
       <link>https://rebelion.org/muchisimas-mas-que-100-ii/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">913c3179b849d5e7</guid>
       <pubDate>Wed, 28 Oct 2026 18:25:41 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/913c3179b849d5e7.mp3" length="2524608" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>El viento y el tiempo arrastran las hojas muertas</title>
-      <description>Rebelión · Cultura — https://rebelion.org/el-viento-y-el-tiempo-arrastran-las-hojas-muertas/</description>
-      <link>https://rebelion.org/el-viento-y-el-tiempo-arrastran-las-hojas-muertas/</link>
-      <guid isPermaLink="false">ad9fdf5636bd47d8</guid>
-      <pubDate>Wed, 28 Oct 2026 18:24:39 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/ad9fdf5636bd47d8.mp3" length="9689904" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
