@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Tiempos nuevos y nuevas oportunidades</title>
+      <description>Rebelión · Cultura — https://rebelion.org/tiempos-nuevos-y-nuevas-oportunidades/</description>
+      <link>https://rebelion.org/tiempos-nuevos-y-nuevas-oportunidades/</link>
+      <guid isPermaLink="false">7506bc06d2d3b773</guid>
+      <pubDate>Thu, 19 Nov 2026 20:40:15 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/7506bc06d2d3b773.mp3" length="2389536" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Artículos y reseñas contra la alienación del capital</title>
       <description>Rebelión · Cultura — https://rebelion.org/articulos-y-resenas-contra-la-alienacion-del-capital/</description>
       <link>https://rebelion.org/articulos-y-resenas-contra-la-alienacion-del-capital/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">3cf5eb229d409d27</guid>
       <pubDate>Thu, 29 Oct 2026 18:29:49 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/3cf5eb229d409d27.mp3" length="2686176" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>«Los viajes de Gulliver», trescientos años de un angustiado manifiesto político</title>
-      <description>Rebelión · Cultura — https://rebelion.org/los-viajes-de-gulliver-trescientos-anos-de-un-angustiado-manifiesto-politico/</description>
-      <link>https://rebelion.org/los-viajes-de-gulliver-trescientos-anos-de-un-angustiado-manifiesto-politico/</link>
-      <guid isPermaLink="false">913c3179b849d5e7</guid>
-      <pubDate>Wed, 28 Oct 2026 18:25:41 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/913c3179b849d5e7.mp3" length="2524608" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
