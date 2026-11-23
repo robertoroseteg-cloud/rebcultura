@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>La década de la subversión revolucionaria</title>
+      <description>Rebelión · Cultura — https://rebelion.org/la-decada-de-la-subversion-revolucionaria/</description>
+      <link>https://rebelion.org/la-decada-de-la-subversion-revolucionaria/</link>
+      <guid isPermaLink="false">230ba371ba85690d</guid>
+      <pubDate>Mon, 23 Nov 2026 23:57:31 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/230ba371ba85690d.mp3" length="2710800" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Andrés Bello y la maravillosa locura de la palabra</title>
+      <description>Rebelión · Cultura — https://rebelion.org/andres-bello-y-la-maravillosa-locura-de-la-palabra/</description>
+      <link>https://rebelion.org/andres-bello-y-la-maravillosa-locura-de-la-palabra/</link>
+      <guid isPermaLink="false">2c4832929346e8fc</guid>
+      <pubDate>Mon, 23 Nov 2026 23:56:43 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/2c4832929346e8fc.mp3" length="4790736" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Mariátegui hoy</title>
       <description>Rebelión · Cultura — https://rebelion.org/mariategui-hoy/</description>
       <link>https://rebelion.org/mariategui-hoy/</link>
@@ -150,22 +166,6 @@
       <guid isPermaLink="false">6f9b67cee683920f</guid>
       <pubDate>Mon, 02 Nov 2026 21:45:24 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/6f9b67cee683920f.mp3" length="7766640" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Eric Hobsbawm, historiador de las derrotas</title>
-      <description>Rebelión · Cultura — https://rebelion.org/eric-hobsbawm-historiador-de-las-derrotas/</description>
-      <link>https://rebelion.org/eric-hobsbawm-historiador-de-las-derrotas/</link>
-      <guid isPermaLink="false">05eb34fa56a65289</guid>
-      <pubDate>Sat, 31 Oct 2026 17:17:38 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/05eb34fa56a65289.mp3" length="8819856" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>«Lorca en La Habana», una recreación de la estancia del literato granadino en Cuba en 1930</title>
-      <description>Rebelión · Cultura — https://rebelion.org/lorca-en-la-habana-una-recreacion-de-la-estancia-del-literato-granadino-en-cuba-en-1930/</description>
-      <link>https://rebelion.org/lorca-en-la-habana-una-recreacion-de-la-estancia-del-literato-granadino-en-cuba-en-1930/</link>
-      <guid isPermaLink="false">066bd87079dc6cc2</guid>
-      <pubDate>Fri, 30 Oct 2026 18:01:49 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/066bd87079dc6cc2.mp3" length="1913904" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

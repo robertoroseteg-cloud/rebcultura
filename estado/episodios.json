@@ -1,5 +1,23 @@
 [
   {
+    "id": "230ba371ba85690d",
+    "titulo": "La década de la subversión revolucionaria",
+    "fuente": "Rebelión · Cultura",
+    "enlace": "https://rebelion.org/la-decada-de-la-subversion-revolucionaria/",
+    "archivo": "230ba371ba85690d.mp3",
+    "bytes": 2710800,
+    "timestamp": 1795478251
+  },
+  {
+    "id": "2c4832929346e8fc",
+    "titulo": "Andrés Bello y la maravillosa locura de la palabra",
+    "fuente": "Rebelión · Cultura",
+    "enlace": "https://rebelion.org/andres-bello-y-la-maravillosa-locura-de-la-palabra/",
+    "archivo": "2c4832929346e8fc.mp3",
+    "bytes": 4790736,
+    "timestamp": 1795478203
+  },
+  {
     "id": "be103c5062be9cfd",
     "titulo": "Mariátegui hoy",
     "fuente": "Rebelión · Cultura",
@@ -160,23 +178,5 @@
     "archivo": "6f9b67cee683920f.mp3",
     "bytes": 7766640,
     "timestamp": 1793655924
-  },
-  {
-    "id": "05eb34fa56a65289",
-    "titulo": "Eric Hobsbawm, historiador de las derrotas",
-    "fuente": "Rebelión · Cultura",
-    "enlace": "https://rebelion.org/eric-hobsbawm-historiador-de-las-derrotas/",
-    "archivo": "05eb34fa56a65289.mp3",
-    "bytes": 8819856,
-    "timestamp": 1793467058
-  },
-  {
-    "id": "066bd87079dc6cc2",
-    "titulo": "«Lorca en La Habana», una recreación de la estancia del literato granadino en Cuba en 1930",
-    "fuente": "Rebelión · Cultura",
-    "enlace": "https://rebelion.org/lorca-en-la-habana-una-recreacion-de-la-estancia-del-literato-granadino-en-cuba-en-1930/",
-    "archivo": "066bd87079dc6cc2.mp3",
-    "bytes": 1913904,
-    "timestamp": 1793383309
   }
 ]
