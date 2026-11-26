@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Reseñas de dos libros del maestro Sacristán</title>
+      <description>Rebelión · Cultura — https://rebelion.org/resenas-sobre-dos-libros-del-maestro-sacristan/</description>
+      <link>https://rebelion.org/resenas-sobre-dos-libros-del-maestro-sacristan/</link>
+      <guid isPermaLink="false">d9200e9b60e6e6a8</guid>
+      <pubDate>Thu, 26 Nov 2026 21:41:38 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/d9200e9b60e6e6a8.mp3" length="21445920" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Ocurrió en octubre</title>
+      <description>Rebelión · Cultura — https://rebelion.org/ocurrio-en-octubre/</description>
+      <link>https://rebelion.org/ocurrio-en-octubre/</link>
+      <guid isPermaLink="false">27b9bb76655cb7d3</guid>
+      <pubDate>Thu, 26 Nov 2026 21:34:35 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/27b9bb76655cb7d3.mp3" length="3317760" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>El precio del silencio: las 18 mujeres que tumbaron al hombre más temido de la cultura sueca</title>
       <description>Rebelión · Cultura — https://rebelion.org/el-precio-del-silencio-las-18-mujeres-que-tumbaron-al-hombre-mas-temido-de-la-cultura-sueca/</description>
       <link>https://rebelion.org/el-precio-del-silencio-las-18-mujeres-que-tumbaron-al-hombre-mas-temido-de-la-cultura-sueca/</link>
@@ -150,22 +166,6 @@
       <guid isPermaLink="false">35cd5f8b22904d1b</guid>
       <pubDate>Fri, 06 Nov 2026 19:28:13 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/35cd5f8b22904d1b.mp3" length="4481280" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Sábado 7 noviembre se inaugura la exhibición «Cuando la conciencia nos llama»</title>
-      <description>Rebelión · Cultura — https://rebelion.org/el-sabado-7-de-noviembre-se-inaugura-la-exposicion-fotografica-cuando-la-conciencia-nos-llama/</description>
-      <link>https://rebelion.org/el-sabado-7-de-noviembre-se-inaugura-la-exposicion-fotografica-cuando-la-conciencia-nos-llama/</link>
-      <guid isPermaLink="false">09720953f97a8052</guid>
-      <pubDate>Fri, 06 Nov 2026 19:26:00 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/09720953f97a8052.mp3" length="743904" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Memoria, afectos y solidaridad en medio de la guerra</title>
-      <description>Rebelión · Cultura — https://rebelion.org/memoria-afectos-y-solidaridad-en-medio-de-la-guerra/</description>
-      <link>https://rebelion.org/memoria-afectos-y-solidaridad-en-medio-de-la-guerra/</link>
-      <guid isPermaLink="false">a5ebe37381a3e5f7</guid>
-      <pubDate>Thu, 05 Nov 2026 19:59:24 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcultura/episodios/a5ebe37381a3e5f7.mp3" length="2338560" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
